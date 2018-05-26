@@ -1,0 +1,6 @@
+controller/SimpleCORSFilter.class
+application/Application.class
+controller/TaskController.class
+bean/TaskBean.class
+dao/TaskDao.class
+entity/Task.class
